@@ -1,0 +1,1 @@
+id	name	year_of_birth1	Aibat	20022	Olzhas	20033	Dana	2003
